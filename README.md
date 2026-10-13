@@ -51,7 +51,7 @@ PlayStation Pulse is a self-contained collection of static PS4 host pages. One e
 - Dedicated offline host pages for PS4 firmware 5.05 and 6.72.
 - PSFree/Lapse host flows for firmware 7.00–8.52 and 9.00–9.60.
 - A CSSFontFace UAF host flow for firmware 6.00–11.02.
-- A SlopKit WebKit research flow for firmware 11.00–12.02 and 12.50–13.00.
+- A SlopKit WebKit research flow for firmware 11.00–12.02 and 12.50–13.52.
 - Repository-bundled GoldHEN v2.4b18.12 and v2.4b18.10 assets where the host supports both builds.
 - AppCache-based offline operation with firmware-specific cache and manifest files.
 - Firmware-specific payload utilities on the host branches that provide them.
